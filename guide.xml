@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ESPN BRASIL HD">
+    <display-name lang="pt">ESPN BRASIL HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ESPN BRASIL SD">
+    <display-name lang="pt">ESPN BRASIL SD</display-name>
+    <icon src="../canais/tbc.gif|../canais/cultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name lang="pt">ESPN 2 </display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN EXTRA SD">
+    <display-name lang="pt">ESPN EXTRA SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ESPN EXTRA HD">
+    <display-name lang="pt">ESPN EXTRA HD</display-name>
+    <icon src="../canais/foztv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN  HD">
+    <display-name lang="pt">ESPN  HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX SPORTS HD">
+    <display-name lang="pt">FOX SPORTS HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX SPORTS SD">
+    <display-name lang="pt">FOX SPORTS SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PREMIERE CLUBES HD">
+    <display-name lang="pt">PREMIERE CLUBES HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="PREMIERE CLUBES SD">
+    <display-name lang="pt">PREMIERE CLUBES SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SPORTV HD">
+    <display-name lang="pt">SPORTV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SPORTV SD">
+    <display-name lang="pt">SPORTV SD</display-name>
+    <icon src="../canais/1574361045.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+</tv>
